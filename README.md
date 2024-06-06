@@ -9,15 +9,15 @@ The Laravel Project Info Script is designed to help developers quickly extract a
 ## Usage
 
 1. **Clone this repository** to your Laravel project root directory:
-   ``bash
+   ```bash
    git clone https://github.com/achrafbouhadou/laravel-project-info-script.git
    cd laravel-project-info-script
- bash``
+ bash```
  
  2. **Make the script executable:** 
-   ``bash
+   ```bash
    chmod +x project_info.sh
-   bash``
+   bash```
 
  3. **Run the script:** 
    ``bash
