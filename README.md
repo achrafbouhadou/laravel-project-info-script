@@ -12,17 +12,12 @@ The Laravel Project Info Script is designed to help developers quickly extract a
    ```bash
    git clone https://github.com/achrafbouhadou/laravel-project-info-script.git
    cd laravel-project-info-script
- bash```
  
  ### 2. Make the script executable:
    ```bash
    chmod +x project_info.sh
-   bash```
+ ./project_info.sh
 
- ### 3. Run the script:
-   ``bash
-   ./project_info.sh
- bash``
 
  4. **Example Output** 
    ``bash
